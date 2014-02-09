@@ -9,4 +9,8 @@ It only collects stdout, so you need to redirect stderr into stdout yourself in 
 
 Example script
 
-    node mycoolapp.js 2>&1 
+    #!/bin/bash
+    /usr/local/bin/node tst.js 2>&1
+    
+    
+![Simple runner screenshot](http://kamrik.org/SimpleRunnerScreenshot.png)
