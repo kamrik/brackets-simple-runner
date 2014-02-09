@@ -1,0 +1,12 @@
+{
+    "name": "kamrik.brackets.simple.runner",
+    "title": "Simple Runner",
+    "description": "Run a script and show clickable links from stack traces in a bottom panel.",
+    "homepage": "https://github.com/kamrik/brackets-simple-runner",
+    "version": "0.0.2",
+    "author": "Mark Koudritsky <kamrik@gmail.com> (http://github.com/kamrik)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
